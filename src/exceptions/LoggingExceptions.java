@@ -8,6 +8,7 @@ import java.util.logging.Logger;
  * Created by Rafal on 02017-04-10.
  */
 // An exception that reports through a Logger
+    //aaaaaaaaaaaaaaa
 class LoggingException extends Exception{
     private static Logger logger = Logger.getLogger("LoggingException");
     public LoggingException(){
