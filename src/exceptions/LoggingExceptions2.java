@@ -14,4 +14,12 @@ public class LoggingExceptions2 {
         e.printStackTrace(new PrintWriter(trace));
         logger.severe(trace.toString());
     }
+
+    public static void main(String[] args) {
+        try{
+            throw new NullPointerException();
+        }catch(NullPointerException e){
+            logException(e);
+        }
+    }
 }
