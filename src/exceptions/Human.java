@@ -4,7 +4,7 @@ package exceptions;
  * Created by Rafal on 02017-04-12.
  */
 // catching exception hierarchies
-class Annoyance extends Exception{}
+class Annoyance extends RuntimeException{}
 class Sneeze extends Annoyance{}
 public class Human {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package exceptions;
 /**
  * Created by Rafal on 02017-04-10.
  */
-class MyException2 extends Exception{
+class MyException2 extends RuntimeException{
     private String s;
     MyException2(String s){
         this.s=s;
@@ -14,10 +14,11 @@ class MyException2 extends Exception{
 }
 public class E4 {
     public static void main(String[] args) {
-        try{
-            throw new MyException2("ojej");
-        }catch (MyException2 exception2){
-            exception2.printS();
-        }
+        throw new MyException2("ojej");
+//        try{
+//            throw new MyException2("ojej");
+//        }catch (MyException2 exception2){
+//            exception2.printS();
+//        }
     }
 }

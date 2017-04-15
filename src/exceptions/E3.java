@@ -10,8 +10,8 @@ public class E3 {
 
                 ints[10]=0;
 
-        }catch (ArrayIndexOutOfBoundsException e){
-            System.err.println(e);
+        }catch (Exception e){
+            throw new RuntimeException(e);
         }
     }
 }
