@@ -22,6 +22,6 @@ public class Turtle {
         Turtle tommy = new Turtle("Tommy",new Formatter(System.out));
         Turtle terry = new Turtle("Terry",new Formatter(outAlias));
         tommy.move(0,0);
-        
+
     }
 }
