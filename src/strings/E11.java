@@ -1,4 +1,4 @@
-package net.mindview.util;
+package strings;
 
 import com.sun.org.apache.xerces.internal.impl.xpath.regex.Match;
 

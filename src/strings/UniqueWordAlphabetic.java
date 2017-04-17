@@ -1,4 +1,6 @@
-package net.mindview.util;
+package strings;
+
+import net.mindview.util.TextFile;
 
 import java.util.Set;
 import java.util.TreeSet;

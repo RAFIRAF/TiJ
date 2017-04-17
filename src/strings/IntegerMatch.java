@@ -1,4 +1,4 @@
-package net.mindview.util;
+package strings;
 
 /**
  * Created by Rafal on 02017-04-16.

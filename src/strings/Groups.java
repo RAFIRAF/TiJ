@@ -1,4 +1,4 @@
-package net.mindview.util;
+package strings;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

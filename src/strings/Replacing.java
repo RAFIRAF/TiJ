@@ -1,4 +1,6 @@
-package net.mindview.util;
+package strings;
+
+import strings.Splitting;
 
 /**
  * Created by Rafal on 02017-04-16.
