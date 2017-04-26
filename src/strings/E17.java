@@ -11,18 +11,12 @@ public class E17 {
             System.exit(-1);
         }
         String s = TextFile.read(args[0]);
-        Pattern pattern = Pattern.compile("/\\*.*?\\*/", Pattern.DOTALL);
+        Pattern pattern = Pattern.compile("/\\*.*?\\*/|//.*?$", Pattern.DOTALL|Pattern.MULTILINE);
+                                                        // bez nawiasow OR | tez dziala
+                                                            // dolar konieczny
         Matcher matcher = pattern.matcher(s);
         while (matcher.find())
             System.out.println(matcher.group());
-        matcher.reset();
-        Matcher matcher1 = Pattern.compile("//.*").matcher("");
-        for (String line:new TextFile(args[0])
-             ) {
-            matcher1.reset(line);
-            while (matcher1.find())
-                System.out.println(matcher1.group());
-        }
         /* komentarz
             spanning across multiple lines
          */
