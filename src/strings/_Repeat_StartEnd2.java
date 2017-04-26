@@ -6,13 +6,13 @@ import java.util.regex.Pattern;
 /**
  * Created by Rafal on 02017-04-23.
  */
-public class StartEnd2 {
+public class _Repeat_StartEnd2 {
     private static final String input = "As long as there is injustice, whenever a\n" +
             "Targathian baby cries out, wherever a distress\n" +
             "signal sounds among the stars ... We’ll be there.\n" +
             "This fine ship, and this fine crew ...\n" +
             "Never give up! Never surrender!";
-    private static class Display{
+    protected static class Display{
         boolean regexPrinted = false;
         String regex;
         Display(String regex){this.regex=regex;}
@@ -21,9 +21,10 @@ public class StartEnd2 {
                 System.out.println(regex);
                 regexPrinted=true;
             }
+            System.out.println(message);
         }
     }
-    private static void examine(String s, String regex){
+    public static void examine(String s, String regex){
         Display d = new Display(regex);
         Pattern p = Pattern.compile(regex);
         Matcher m = p.matcher(s);
