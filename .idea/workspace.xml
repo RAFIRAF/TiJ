@@ -6,8 +6,531 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b48f1099-7156-49fc-be0e-eaf1cba36274" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Holder1.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/access/Test2S199.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/access/TestS199.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/coffee/Americano.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/coffee/Breve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/coffee/Cappuccino.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/coffee/Coffee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/coffee/CoffeeGenerator$CoffeeIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/coffee/CoffeeGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/coffee/Latte.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/coffee/Mocha.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/AlwaysFinally.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Annoyance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/BaseballException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Cleanup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/CleanupIdiom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/ConstructionException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/DynamicFields.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/DynamicFieldsException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E05_Resumption.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E9Exception1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E9Exception2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/E9Exception3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/ExceptionMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/ExceptionSilencer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/ExtraFeatures.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/FinallyWorks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Foul.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/FourException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/FullConstructors.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/HoHumException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/InheritingExceptions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Inning.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/InputFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/LoggingException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/LoggingExceptionE6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/LoggingExceptionE66.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/LoggingExceptions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/LoggingExceptions2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/LostMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/MainException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/MultipleReturns.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/MyException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/MyException2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/MyException22.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/NeedsCleanup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/NeedsCleanup2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/NeverCaught.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/OnOffException1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/OnOffException2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/OnOffSwitch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/OneException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/PopFoul.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/RainedOut.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Resumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/ResumerException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/RethrowNew.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Rethrowing.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/SimpleException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Sneeze.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/SomeOtherException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Storm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/StormException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/StormyInning.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Strike.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/Switch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/ThreeException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/TurnOffChecking.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/TwoException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/VeryImportantException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/WhoCalled.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/exceptions/WrapCheckedException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/AdapterMethodIdiom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/AddingGroups.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/ArraysIsNotIterable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/AsListInference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/CollectionSequence$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/CollectionSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/CrossContainerIteration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/Crusty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E04_MovieNameGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E12_ANS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E16_Vowels.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/E7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/EnvironmentVariables.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/ForEachCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/Heavy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/InterfaceVsIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/IterableClass$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/IterableClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/Iterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/Light.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/LinkedListFeatures.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/ListFeatures.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/ListFeaturesWithIntegers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/ListIteration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/MapOfList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/ModifyingArraysAsList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/MovieNameGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/MultiIterableClass$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/MultiIterableClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/NameGenerator$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/NameGenerator$NamesSelector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/NameGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/NonCollectionSequence$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/NonCollectionSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/PetMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/PetSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/Powder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/PrintingContainers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/PriorityQueueDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/QueueDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/ReversibleArrayList$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/ReversibleArrayList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/Selector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/SetOfInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/SetOperations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/SimpleCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/SimpleIteration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/Slush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/Snow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/SortedSetOfInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/StackCollision.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/StackTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/Statistics.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/UniqueWords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/UnlimitedSequence$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/UnlimitedSequence$SequenceSelector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/UnlimitedSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/holding/X.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/initialization/Overloading.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/initialization/Tree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/AnonymousConstructor$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/AnonymousConstructor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Base.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/CII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Callbacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Calle2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Calle2$Closure.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Calle2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Callee1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Caller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/ClassInInterface$Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/ClassInInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Contents.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Counter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw10$1K.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw10v2$1SI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw10v2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw11$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw11$Goku.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw11Interface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw7$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw8$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw9$1Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Cw9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Damn$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Damn$XX.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Damn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Destination.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/DotThisTest$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/DotThisTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E10v2$1SI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E10v2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E11v2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E20$InnerE20.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E20.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E20I.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E21.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E21Interface$E21IntClass$1f.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E21Interface$E21IntClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E21Interface$E21IntClass2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E21Interface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E21v2Int$E21v2Nested$Tester$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E21v2Int$E21v2Nested$Tester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E21v2Int$E21v2Nested.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E21v2Int.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E26$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E26.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/E9v2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Factories2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/First.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$Bell.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$FanOff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$FanOn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$LightOff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$LightOn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$Restart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$Terminate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$ThermostatDay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$ThermostatNight.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$WaterOff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls$WaterOn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/GreenhouseControls.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Implementation1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Implementation1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Implementation2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Implementation2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Incrementable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/InheritInner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/InnerInterfaceTest$Test$TestTest$TestTestTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/InnerInterfaceTest$Test$TestTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/InnerInterfaceTest$Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/InnerInterfaceTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/LocalInnerClasses$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/LocalInnerClasses$1LocalCounter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/LocalInnerClasses.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/MNA$A$B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/MNA$A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/MNA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/MultiImplementation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/MultiInterfaces.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/MultiNestingAccess.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/MyIncrement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Outer$1Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Outer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Outerer$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Outerer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel10$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel4$PContents.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel4$PDestination.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel5$1PDestination.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel6$1TrackingSlip.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel7$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel8$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel9$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Parcel9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/PubiInti.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Second$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Second.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Selector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Selector2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Selector3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Sequence$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Sequence$SequenceSelector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Sequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Sequence2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Sequence2$Sequence2Selector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Sequence2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Sequence3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Sequence3$Sequence3Selector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Sequence3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Service.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/ServiceFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/SimpleInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Ten.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/TestBed$Tester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/TestBed.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/TestParcel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/WithInner$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/WithInner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Wrapping.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/X.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/XX.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/XXX.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/YY$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/YY.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Z$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/Z.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/controller/Controller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/controller/Event.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/ex6/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/exx6/B$C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/exx6/B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/innerclasses/exxx6/D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/AA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/AAA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/AB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Abstrakcyjna.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/BaseInterface1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/BaseInterface2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/BaseInterface3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Bicycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/BicycleFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/C2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/C3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/C4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/CharArrayToString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/CharSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/CharsGen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/CharsGen2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Checkers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/CheckersFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Chess.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/ChessFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/CoinFlip.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/CoinFlipFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/CombinedInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Cw13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Cw14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Cw15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Cw16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Cw16ASG.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Cw16v2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Cw17.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Cw18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Cw19.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Cycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/CycleFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/DangerousMonster.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/DiceThrow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/DiceThrowFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/DragonZilla.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Factories.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Factories2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Game.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/GameFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Games.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/HorrorShow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/I1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/I2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/I3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Implementation1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Implementation1Factory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Implementation2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Implementation2Factory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/ImplicitlyStaticAndFinalInterfaceMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Lethal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/LottoNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Monster.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/NameGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/ProbabilityGame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/ProbabilityGameFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/RafalGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/RandVals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/RandValsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/RandomDoubles.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/RandomDoubles2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/RandomWords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/RandomWords2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Service.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Service2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Service2Factory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Service2Implementation1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Service2Implementation2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Service2Implemntation1Factory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Service2Implemntation2Factory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/ServiceFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/SomeClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Tricycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/TricycleFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Unicycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/UnicycleFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/Vampire.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/VeryBadVampire.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/A$B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/A$BImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/A$BImp2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/A$C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/A$CImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/A$CImp2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/A$D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/A$DImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/A$DImp2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/E$G.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/E$H.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/E.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/Game.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/NestingInterfaces$BImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/NestingInterfaces$EGImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/NestingInterfaces$EImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/NestingInterfaces$Eimp2$EG.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/NestingInterfaces$Eimp2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/interfaces/nesting/NestingInterfaces.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/net/mindview/util/BinaryFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/net/mindview/util/Generator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/net/mindview/util/Hex.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/net/mindview/util/Print.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/net/mindview/util/Stack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/net/mindview/util/TextFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Cwiczenie9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/DamnSon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/Documentation1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/HelloDate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/NazwaTypu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/StaticFun.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/StaticTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/TylkoDane.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/object/WszystkieKoloryTeczy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Casting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie4ArgumentyZLiniiPolecen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie7ASG.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Cwiczenie9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/DoubleToFloat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Hm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/InnerClassesTest$A$B$C$D$E$F.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/InnerClassesTest$A$B$C$D$E.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/InnerClassesTest$A$B$C$D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/InnerClassesTest$A$B$C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/InnerClassesTest$A$B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/InnerClassesTest$A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/InnerClassesTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Literals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/MaksInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/MathOps.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/operators/Tank.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/Cleanser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/Cw18v2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/Cwiczenie18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/Cwiczenie2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/Detergent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/FinalData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/NewDetergent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/RecurrencyTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/SpaceShip.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/SpaceShipControls.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/SpaceShipDelegation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/reusing/Value.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/ArrayListDisplay.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/BetterRead.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Conversion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/DatabaseException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/E10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/E11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/E12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/E13$Display.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/E13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/E14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/E15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/E16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Finding.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Groups.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Immutable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Immutable2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/InfiniteRecursion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/IntegerMatch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/JGrep.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/ReFlags.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Receipt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Replacing.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/ReplacingStringTokenizer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Resetting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Rudolph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/ScannerDelimiter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/SimpleRead.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/SplitDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Splitting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/StartEnd$Display.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/StartEnd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/TestRegularExpression.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/TheReplacements.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/ThreatAnalyzer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/Turtle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/UniqueWordAlphabetic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/strings/WhitherStringBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Cymric.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/EgyptianMau.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/ForNameCreator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Hamster.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Individual.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/LiteralPetCreator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Manx.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Mouse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Mutt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Pet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/PetCreator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Pets.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Pug.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Rat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TiJ/typeinfo/pets/Rodent.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/strings/E17.java" afterPath="$PROJECT_DIR$/src/strings/E17.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,35 +557,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="_REPEAT_E15_JGrep2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strings/_REPEAT_E15_JGrep2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="E16v2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/strings/E16v2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1113">
-              <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="56" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E15.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strings/E15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="2438">
+              <caret line="50" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="56" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -71,7 +570,7 @@
       <file leaf-file-name="E14v2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/strings/E14v2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
+            <state relative-caret-position="636">
               <caret line="12" column="65" lean-forward="false" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
               <folding />
             </state>
@@ -81,8 +580,18 @@
       <file leaf-file-name="E17.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/strings/E17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="689">
               <caret line="15" column="78" lean-forward="false" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E17_JCommentExtractor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/strings/E17_JCommentExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="17" column="56" lean-forward="false" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,14 +599,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="E17_JCommentExtractor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/strings/E17_JCommentExtractor.java">
+      <file leaf-file-name="Holder1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/generics/Holder1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-347">
-              <caret line="17" column="56" lean-forward="true" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="424">
+              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,9 +612,11 @@
       <file leaf-file-name="ReFlags.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/strings/ReFlags.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
+            <state relative-caret-position="477">
               <caret line="12" column="77" lean-forward="false" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,32 +624,8 @@
       <file leaf-file-name="TheReplacements2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/strings/TheReplacements2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-530">
+            <state relative-caret-position="265">
               <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E20.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strings/E20.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1592">
-              <caret line="36" column="48" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScannerDelimiter2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strings/ScannerDelimiter2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -166,6 +651,7 @@
       <find>locale</find>
       <find>multiline</find>
       <find>|</find>
+      <find>main</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Rafał\Documents\IntelliJ IDEA Projects\TiJ\src\strings</dir>
@@ -187,9 +673,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/typeinfo/SimpleProxyDemo.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/SimpleDynamicProxy.java" />
-        <option value="$PROJECT_DIR$/src/typeinfo/Person.java" />
         <option value="$PROJECT_DIR$/src/typeinfo/Position.java" />
         <option value="$PROJECT_DIR$/src/typeinfo/OverloadingTest.java" />
         <option value="$PROJECT_DIR$/src/typeinfo/OTExtends.java" />
@@ -238,6 +721,9 @@
         <option value="$PROJECT_DIR$/src/strings/TheReplacements2.java" />
         <option value="$PROJECT_DIR$/src/strings/E17_JCommentExtractor.java" />
         <option value="$PROJECT_DIR$/src/strings/E17.java" />
+        <option value="$PROJECT_DIR$/src/strings/MyToken.java" />
+        <option value="$PROJECT_DIR$/src/strings/CodeSniffer.jj" />
+        <option value="$PROJECT_DIR$/src/generics/Holder1.java" />
       </list>
     </option>
   </component>
@@ -296,10 +782,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -315,175 +797,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RegisteredFactories.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterfaceViolation.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FamilyVsExactType.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packageaccess" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HiddenC.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interfacea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="factory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="strings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TiJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
+              <option name="myItemId" value="generics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -504,23 +818,28 @@
               <option name="myItemId" value="generics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Holder1.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/javacc-6.0/bin/lib/javacc.jar!/" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -538,8 +857,8 @@
       <recent name="groovy.util.GroovyTestCase" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Rafał\Documents\IntelliJ IDEA Projects\TiJ\src\net\mindview\util" />
       <recent name="C:\Users\Rafał\Documents\IntelliJ IDEA Projects\TiJ\src\strings" />
+      <recent name="C:\Users\Rafał\Documents\IntelliJ IDEA Projects\TiJ\src\net\mindview\util" />
       <recent name="C:\Users\Rafał\Documents\IntelliJ IDEA Projects\TiJ\src" />
       <recent name="C:\Users\Rafał\Documents\IntelliJ IDEA Projects\TiJ\src\exceptions" />
       <recent name="C:\Users\Rafał\Documents\IntelliJ IDEA Projects\TiJ\src\typeinfo" />
@@ -1084,7 +1403,8 @@
       <workItem from="1492279487679" duration="4320000" />
       <workItem from="1492358289032" duration="3993000" />
       <workItem from="1492365283507" duration="8465000" />
-      <workItem from="1492376139726" duration="120718000" />
+      <workItem from="1492376139726" duration="123167000" />
+      <workItem from="1493187913936" duration="3064000" />
     </task>
     <task id="LOCAL-00001" summary="k">
       <created>1491829646785</created>
@@ -1177,11 +1497,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493185059149</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Improved regex  in my own (basically the same) version of E17, based on the ASG's version">
+      <created>1493185175560</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1493185175560</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="435563000" />
+    <option name="totallyTimeSpent" value="441076000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1198,7 +1525,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2593361" sideWeight="0.07290322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32987553" sideWeight="0.50258064" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1214,13 +1541,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33195022" sideWeight="0.49741936" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987553" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33195022" sideWeight="0.86774194" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32987553" sideWeight="0.49741936" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18580645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18870968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1228,6 +1553,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1250,7 +1577,9 @@
     <MESSAGE value="Regular Expressions Exercises 2017-04-23" />
     <MESSAGE value="Regular Expressions Exercises 2017-04-25" />
     <MESSAGE value="Added E17_JCommentExtractor.java&#10;Understanding E17_JCommentExtractor.java from the Annotated Solution Guide&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added E17_JCommentExtractor.java&#10;Understanding E17_JCommentExtractor.java from the Annotated Solution Guide&#10;" />
+    <MESSAGE value="Improved regex  in my own (basically the same) version of E17, based on the ASG's version" />
+    <MESSAGE value="Added generics/Holder1&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added generics/Holder1&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1277,73 +1606,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
-          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding>
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/Position.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1324">
-          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
-          <folding>
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/TypeInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/Staff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
-          <folding>
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/Null.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/typeinfo/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="687">
@@ -1359,27 +1621,27 @@
         <state relative-caret-position="-956">
           <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1161#1162#0" expanded="true" />
-            <element signature="e#1251#1252#0" expanded="true" />
-            <element signature="e#1384#1385#0" expanded="true" />
-            <element signature="e#1467#1468#0" expanded="true" />
-            <element signature="e#1542#1543#0" expanded="true" />
-            <element signature="e#1633#1634#0" expanded="true" />
-            <element signature="e#1714#1715#0" expanded="true" />
-            <element signature="e#1778#1779#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#228#229#0" expanded="false" />
+            <element signature="e#274#275#0" expanded="false" />
+            <element signature="e#316#317#0" expanded="false" />
+            <element signature="e#343#344#0" expanded="false" />
+            <element signature="e#386#387#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+            <element signature="e#629#630#0" expanded="false" />
+            <element signature="e#709#710#0" expanded="false" />
+            <element signature="e#784#785#0" expanded="false" />
+            <element signature="e#876#877#0" expanded="false" />
+            <element signature="e#1009#1010#0" expanded="false" />
+            <element signature="e#1086#1087#0" expanded="false" />
+            <element signature="e#1161#1162#0" expanded="false" />
+            <element signature="e#1251#1252#0" expanded="false" />
+            <element signature="e#1384#1385#0" expanded="false" />
+            <element signature="e#1467#1468#0" expanded="false" />
+            <element signature="e#1542#1543#0" expanded="false" />
+            <element signature="e#1633#1634#0" expanded="false" />
+            <element signature="e#1714#1715#0" expanded="false" />
+            <element signature="e#1778#1779#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1388,7 +1650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="702" column="25" lean-forward="false" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1396,7 +1657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
           <caret line="92" column="18" lean-forward="false" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1405,15 +1665,15 @@
         <state relative-caret-position="557">
           <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#497#498#0" expanded="false" />
+            <element signature="e#559#560#0" expanded="false" />
+            <element signature="e#657#658#0" expanded="false" />
+            <element signature="e#696#697#0" expanded="false" />
+            <element signature="e#747#748#0" expanded="false" />
+            <element signature="e#786#787#0" expanded="false" />
+            <element signature="e#851#852#0" expanded="false" />
+            <element signature="e#905#906#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1458,7 +1718,7 @@
         <state relative-caret-position="475">
           <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1489,10 +1749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="742">
           <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1628,7 +1884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1754,45 +2009,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strings/E20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1592">
+        <state relative-caret-position="1749">
           <caret line="36" column="48" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strings/_REPEAT_E15_JGrep2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
+        <state relative-caret-position="1219">
           <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strings/ReFlags.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
+        <state relative-caret-position="477">
           <caret line="12" column="77" lean-forward="false" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strings/TheReplacements2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-530">
+        <state relative-caret-position="265">
           <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strings/E14v2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
+        <state relative-caret-position="636">
           <caret line="12" column="65" lean-forward="false" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
           <folding />
         </state>
@@ -1800,31 +2051,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strings/E16v2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1113">
-          <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="56" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="2438">
+          <caret line="50" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="56" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strings/E17.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="689">
           <caret line="15" column="78" lean-forward="false" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strings/E17_JCommentExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="17" column="56" lean-forward="false" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/strings/E17_JCommentExtractor.java">
+    <entry file="file://$PROJECT_DIR$/src/strings/MyToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/strings/CodeSniffer.jj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-347">
-          <caret line="17" column="56" lean-forward="true" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1441">
+          <caret line="167" column="3" lean-forward="false" selection-start-line="167" selection-start-column="3" selection-end-line="167" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strings/JavaCharStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strings/JavaParserConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strings/JavaParserTokenManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics/Holder1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
