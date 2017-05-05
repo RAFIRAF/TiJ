@@ -8,14 +8,14 @@ import java.util.Random;
 /**
  * Created by Rafal on 02017-04-30.
  */
-public class _REWRITE_CoffeeGenerator implements Generator<Coffee>, Iterable<Coffee>{
+public class _REMEMBER_CoffeeGenerator implements Generator<Coffee>, Iterable<Coffee>{
     private Class[] types = {Latte.class, Mocha.class, Cappuccino.class, Americano.class,
     Breve.class};
     private Random random = new Random(47);
-    public _REWRITE_CoffeeGenerator(){} // żeby sparametryzoany nie był jedynym
+    public _REMEMBER_CoffeeGenerator(){} // żeby sparametryzoany nie był jedynym
 
     private int size = 0;
-    public _REWRITE_CoffeeGenerator(int size){this.size=size;}
+    public _REMEMBER_CoffeeGenerator(int size){this.size=size;}
 
     @Override
     public Coffee next() {
@@ -30,7 +30,7 @@ public class _REWRITE_CoffeeGenerator implements Generator<Coffee>, Iterable<Cof
         public boolean hasNext(){return count > 0;}
         public Coffee next(){
             count--;
-            return _REWRITE_CoffeeGenerator.this.next(); // !
+            return _REMEMBER_CoffeeGenerator.this.next(); // !
         }
         public void remove(){
             throw new UnsupportedOperationException(); // !
@@ -43,11 +43,11 @@ public class _REWRITE_CoffeeGenerator implements Generator<Coffee>, Iterable<Cof
     }
 
     public static void main(String[] args) {
-        _REWRITE_CoffeeGenerator coffeeGenerator = new _REWRITE_CoffeeGenerator();
+        _REMEMBER_CoffeeGenerator coffeeGenerator = new _REMEMBER_CoffeeGenerator();
         for (int i = 0; i < 5; i++) {
             System.out.println(coffeeGenerator.next());
         }
-        for (Coffee coffee:new _REWRITE_CoffeeGenerator(5)
+        for (Coffee coffee:new _REMEMBER_CoffeeGenerator(5)
              ) {
             System.out.println(coffee);
         }
