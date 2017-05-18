@@ -50,7 +50,7 @@ public class Person {
     Document doc = new Document(root);
     format(System.out, doc);
     format(new BufferedOutputStream(new FileOutputStream(
-      "People.xml")), doc);
+      "src/xml/People.xml")), doc); // craetes the file
   }
 } /* Output:
 [Dr. Bunsen Honeydew, Gonzo The Great, Phillip J. Fry]
